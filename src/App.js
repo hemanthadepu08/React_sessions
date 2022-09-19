@@ -1,10 +1,11 @@
 import "./styles.css";
+import { Profile } from "./Profile.js";
 
 export default function App() {
   return (
     <div className="App">
       <h1 id="Company">Prodapt</h1>
-      <h2>Added new package react forms</h2>
+      <Profile name={"Hemanth Adepu"} />
     </div>
   );
 }
