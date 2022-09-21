@@ -12,6 +12,14 @@ export default function App() {
         name={"Mark ZukerBurg"}
         DOB={"01/09/89"}
       />
+
+      <Profile
+        img={
+          "https://th.bing.com/th/id/OIP.n1D7DNqXc6tLGKxtKUtRFgHaE7?pid=ImgDet&rs=1"
+        }
+        name={"Mark ZukerBurg"}
+        DOB={"01/09/89"}
+      />
     </div>
   );
 }
