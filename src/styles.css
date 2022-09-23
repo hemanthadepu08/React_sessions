@@ -9,6 +9,8 @@
 
 #profile {
   border: 1px solid red;
-  margin: 20rem;
-  margin-top: 1rem;
+  /* width: -webkit-fill-available; */
+  width: min-content;
+  margin-inline: auto;
+  margin-top: 5px;
 }
